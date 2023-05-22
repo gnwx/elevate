@@ -3,7 +3,6 @@ import Feature from "./components/Feature";
 import Hero from "./components/Hero";
 import Testimonials from "./components/Testimonials";
 import { features } from "./constants/features";
-import Contact from "./components/Contact";
 import Slogan from "./components/Slogan";
 import NavBar from "./components/Navbar";
 import Footer from "./components/Footer";
